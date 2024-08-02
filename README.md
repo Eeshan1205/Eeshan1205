@@ -2,9 +2,9 @@
 <h3 align="center">A CyberSecurity Enthusiasts</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
-<script src="https://tryhackme.com/badge/2810146"></script>
-<img align="right" alt="coding" width="400" src="![image]https://github.com/Eeshan1205/Eeshan1205/assets/162484072/2c8717cb-1372-4506-a0df-d291c2181066
-">
+
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Eeshan0503.png" alt="TryHackMe">
 
 
 
