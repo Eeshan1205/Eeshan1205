@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Eeshan0503.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/2810146"></script>
 
 
 
